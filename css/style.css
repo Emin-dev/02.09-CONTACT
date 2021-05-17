@@ -448,7 +448,7 @@ img {
 #CONTACT {
     padding: 100px 0px;
     text-align: center;
-    background-image: url(/imgs/map.png);
+    background-image: url(imgs/map.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
